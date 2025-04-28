@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<HEADERS>
+    <HEADER>
+        <PO_NUMBER>A001</PO_NUMBER>
+        <PO_DATE>2025-04-09</PO_DATE>
+        <BUYER_NAME>BERKAH BERKAWAN</BUYER_NAME>
+        <BUYER_ADDR>SEMARANG</BUYER_ADDR>
+        <DETAILS>
+            <DETAIL>
+                <PART_NO>CT-98-0001</PART_NO>
+                <PART_NAME>PLASTIC BOX</PART_NAME>
+                <QTY>12</QTY>
+                <UNIT>UNIT</UNIT>
+                <PRICE>200000.0</PRICE>
+            </DETAIL>
+        </DETAILS>
+    </HEADER>
+    <HEADER>
+        <PO_NUMBER>A002</PO_NUMBER>
+        <PO_DATE>2025-04-10</PO_DATE>
+        <BUYER_NAME>KAWAN LAMA</BUYER_NAME>
+        <BUYER_ADDR>BANDUNG</BUYER_ADDR>
+        <DETAILS>
+            <DETAIL>
+                <PART_NO>KL-92-0219</PART_NO>
+                <PART_NAME>TABLE</PART_NAME>
+                <QTY>25</QTY>
+                <UNIT>UNIT</UNIT>
+                <PRICE>300000.0</PRICE>
+            </DETAIL>
+        </DETAILS>
+    </HEADER>
+</HEADERS>
